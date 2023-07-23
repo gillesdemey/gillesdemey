@@ -1,1 +1,1 @@
-Hi! 👋 I'm Gilles, a software engineer contracting for Grafana Labs.
+Hi! 👋 I'm Gilles, a software engineer working at Grafana Labs.
